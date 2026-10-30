@@ -657,7 +657,7 @@
         "mcpServers": [
           {
             "name": "moomoo-mcp",
-            "description": "http"
+            "description": "streamable-http"
           }
         ],
         "skills": [
